@@ -1,0 +1,16 @@
+C:\Users\kritt\source\repos\shoppingCart with function\shoppingCart with function\bin\Debug\net8.0-windows\shoppingCart with function.exe
+C:\Users\kritt\source\repos\shoppingCart with function\shoppingCart with function\bin\Debug\net8.0-windows\shoppingCart with function.deps.json
+C:\Users\kritt\source\repos\shoppingCart with function\shoppingCart with function\bin\Debug\net8.0-windows\shoppingCart with function.runtimeconfig.json
+C:\Users\kritt\source\repos\shoppingCart with function\shoppingCart with function\bin\Debug\net8.0-windows\shoppingCart with function.dll
+C:\Users\kritt\source\repos\shoppingCart with function\shoppingCart with function\bin\Debug\net8.0-windows\shoppingCart with function.pdb
+C:\Users\kritt\source\repos\shoppingCart with function\shoppingCart with function\obj\Debug\net8.0-windows\shoppingCart_with_function.Form1.resources
+C:\Users\kritt\source\repos\shoppingCart with function\shoppingCart with function\obj\Debug\net8.0-windows\shoppingCart with function.csproj.GenerateResource.cache
+C:\Users\kritt\source\repos\shoppingCart with function\shoppingCart with function\obj\Debug\net8.0-windows\shoppingCart with function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kritt\source\repos\shoppingCart with function\shoppingCart with function\obj\Debug\net8.0-windows\shoppingCart with function.AssemblyInfoInputs.cache
+C:\Users\kritt\source\repos\shoppingCart with function\shoppingCart with function\obj\Debug\net8.0-windows\shoppingCart with function.AssemblyInfo.cs
+C:\Users\kritt\source\repos\shoppingCart with function\shoppingCart with function\obj\Debug\net8.0-windows\shoppingCart with function.csproj.CoreCompileInputs.cache
+C:\Users\kritt\source\repos\shoppingCart with function\shoppingCart with function\obj\Debug\net8.0-windows\shoppingCart with function.dll
+C:\Users\kritt\source\repos\shoppingCart with function\shoppingCart with function\obj\Debug\net8.0-windows\refint\shoppingCart with function.dll
+C:\Users\kritt\source\repos\shoppingCart with function\shoppingCart with function\obj\Debug\net8.0-windows\shoppingCart with function.pdb
+C:\Users\kritt\source\repos\shoppingCart with function\shoppingCart with function\obj\Debug\net8.0-windows\shoppingCart with function.genruntimeconfig.cache
+C:\Users\kritt\source\repos\shoppingCart with function\shoppingCart with function\obj\Debug\net8.0-windows\ref\shoppingCart with function.dll
